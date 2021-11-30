@@ -1,0 +1,42 @@
+body{
+    background-image: url("https://www.howtogeek.com/wp-content/uploads/2021/08/birthday-cake-multicolor-sprinkles.jpg?height=200p&trim=2,2,2,2");
+    background-size: cover;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+input {
+    display: block;
+    margin: auto;
+    padding: 16px;
+    border-radius: 12px;
+}
+
+button{
+    display: block;
+    margin: 1rem auto;
+    padding: 16px;
+    border-radius: 12px;
+    font-weight: bold;
+}
+
+.check-here{
+    font-size: larger;
+    font-weight: bold;
+    padding: 2rem;
+}
+
+.ow{
+    background-color: #F0F9FF;
+    opacity: 0.8;
+    max-width: 50%;
+margin: auto;
+padding: 2rem;
+border-radius: 16px;    
+}
+
+#output {
+    font-size: larger;
+    font-weight: bold;
+    padding: 3rem;
+}
